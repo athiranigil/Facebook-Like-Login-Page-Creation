@@ -1,0 +1,107 @@
+.main-body{
+    width: 100%;
+}
+.left-section{
+    width: 35%;
+    margin-left: 234px;
+    float: left;
+    
+}
+.right-section{
+    width: 50%;
+    float: left;
+    
+    
+}
+.loginpic{
+
+    width: 564px;
+    height: 235px;
+}
+#leftpara{
+    margin-left: 11px;
+    font-size: 28px;
+}
+.marg{
+    margin-left: 225px;
+    height: 50px;
+
+}
+#field1{
+    width: 220px;
+    height: 30px;
+    font-size: 18px;
+    padding-left: 10px;
+}
+#field2{
+    width: 220px;
+    height: 29px;
+    font-size: 18px;
+    padding-left: 10px;
+}
+.inputs{
+    width: 25%;
+    float: left;
+    margin-right: 70px;
+
+}
+
+h1{
+    margin-left: 218px;
+}
+p{
+    margin-left: 223px;
+}
+.inp{
+    margin-left: 225px;
+    width: 100%;
+}
+.ph{
+    width: 473px;
+    height: 30px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    padding-left: 10px;
+}
+.check{
+    border-radius: 50%;
+}
+.left{
+    margin-left: 219px;
+}
+select {
+    background-color: white;
+    border: thin solid rgba(233, 227, 227, 0.89);
+    border-radius: 1px;
+    display: inline-block;
+    font: inherit;
+    line-height: 1.5em;
+    padding: 0.5em 3.5em 0.5em 1em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  }
+  select.arrows {
+    background-image:    url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAA3klEQVRIS+3VMU9CMRTF8d8zBL+aizoQFhx0kUk33RzdYMNFXUFnYeGrYYyaJiUxJHDLSxodbNKpfeffc9/pbaPyaCrr+3OA++z4rtT5Pg5GuMnCY9yWQEoBE1xhlUUP8YDrCBIB0vojLvGO0yz4hm4JJAKcYYoPHGOZAUdYoIMBXrc5iQAHeMlzviFygj7O8dkWEJU4XI8chALRhn9AVKHf70VRTHu4wFfbmKZLNKt50dLBnna0imcMd/2I0phWa3Y/D1e1Xa9BCZJG0VuQNpaWKMx72xS1Fl5/WN3BN+AgJhnZQlq4AAAAAElFTkSuQmCC');
+    background-position: calc(100% - .5rem), 100% 0;
+    background-size:  1.5em 1.5em;
+    background-repeat: no-repeat;
+  }
+  select.arrows:focus {
+    border-color: blue;
+    outline: 0;
+  }
+  .signupbtn{
+    width: 230px;
+    height: 42px;
+    background: green;
+    font-size: 20px;
+    color: white;
+    border-radius: 7px;
+    margin-left: 223px;
+    border: none;
+    cursor: pointer;
+}
+  
